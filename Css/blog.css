@@ -1,0 +1,134 @@
+body{
+    background-color: #f6f5f1;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+    .nav-item  .nav-link{
+      color: white;
+  } 
+  .to-search  a i{
+    color: white;
+  }
+  .navbar-nav .nav-item .nav-link{
+    color: white !important;
+    letter-spacing: 1px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover{
+    
+    opacity: 1;
+    background: #ffc554;
+      
+      -webkit-transform: rotate(-10deg) !important;
+      -ms-transform: rotate(-10deg) !important;
+      transform: rotate(-20deg) !important;
+      
+      -webkit-transition: all 0.3s !important;
+      -o-transition: all 0.3s !important;
+      transition: all 0.3s !important;
+  
+  }
+  /*------------ section one ---------------*/
+  .blog-card h2{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.2;
+    color: #222222;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  .blog h1{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 1.2;
+    
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  .blog-card h5{
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 15px;
+  }
+  .blog{
+      background-image: url("../image/bg-title-page-03.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 90vh;
+
+  }
+  .title-blog{
+      margin-top: 50px !important;
+  }
+  .texxt{
+    font-weight: 500;
+    font-size: 22px;
+    color: #222222;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+  }
+  ul li{
+      list-style-type: none;
+      font-weight: 400;
+    font-size: 15px;
+    color: #222222;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+  }
+  .bo5-b{
+    border-bottom: 1px solid #e6e6e6;
+    width: 200px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+  }
+  .tof h4{
+    font-weight: 500;
+    font-size: 12px;
+    color: #222222;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+  }
+  .tof p{
+    font-weight: 400;
+    font-size: 13px;
+    color: #999999;
+    line-height: 1.7;
+  }
+  .ttif{
+    font-weight: 500;
+    font-size: 12px;
+    color: #222222;
+    line-height: 1.5;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+  }
+
+footer h2{
+  color: white;
+  font-weight: 500;
+}
+footer {
+ background-color: #0b1727!important;
+}
+footer ul li{
+  list-style-type: none;
+}
+footer ul li a {
+  text-decoration: none;
+  
+color: #999694 ;
+
+}
+.pied-page{
+  background-color: black;
+}
+.pied-page p{
+  color: white;
+}
+.pied-page a{
+  color: white !important;
+}

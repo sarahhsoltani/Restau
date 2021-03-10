@@ -1,0 +1,123 @@
+body{
+    background-color: #f6f5f1;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+    .nav-item  .nav-link{
+      color: white;
+  } 
+  .to-search  a i{
+    color: white;
+  }
+  .navbar-nav .nav-item .nav-link{
+    color: white !important;
+    letter-spacing: 1px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover{
+    
+    opacity: 1;
+    background: #ffc554;
+      
+      -webkit-transform: rotate(-10deg) !important;
+      -ms-transform: rotate(-10deg) !important;
+      transform: rotate(-20deg) !important;
+      
+      -webkit-transition: all 0.3s !important;
+      -o-transition: all 0.3s !important;
+      transition: all 0.3s !important;
+  
+  }
+  /*-------------- second  -------*/
+  .contact{
+    background-image: url("../image/bg_3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+
+}
+.contact h1{
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 1.2;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+body{
+    background-color: #f9fafd !important;
+
+}
+.title-contact h5{
+    font-size: 1.5625rem;
+    font-weight: bold;
+        color: #232e3c!important;
+}
+.title-contact h2{
+    font-weight: bold;
+    font-size: 2.54141rem;
+    letter-spacing: 1;
+    
+}
+/*----------------Infos   ------------------*/
+.infos {
+    background-color: white ;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+}
+.infos i{
+     color: #ff806e!important;
+}
+.infos .hours{
+    font-weight: 700;
+    color: #ff806e;
+}
+.time{
+    color: #748194
+}
+.card-2{
+    margin-right: 10px;
+}
+.card-1{
+    width: 348px !important;
+    margin-right: 13px;
+}
+.nos{
+    font-weight: 700!important;
+    color: #999694 ;
+}
+/* ------------Formulaire -------------*/
+.formulaire h2{
+font-weight: 700;
+}
+.formulaire p{
+    font-weight: 400;
+    line-height: 1.5;
+    color: #5e6e82;
+}
+footer h2{
+    color: white;
+    font-weight: 500;
+}
+footer {
+   background-color: #0b1727!important;
+}
+footer ul li{
+    list-style-type: none;
+}
+footer ul li a {
+    text-decoration: none;
+    
+  color: #999694 ;
+
+}
+.pied-page{
+    background-color: black;
+}
+.pied-page p{
+    color: white;
+}
+.pied-page a{
+    color: white !important;
+}

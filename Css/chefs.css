@@ -1,0 +1,77 @@
+body{
+    background-color: #f6f5f1;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+    .nav-item  .nav-link{
+      color: white;
+  } 
+  .to-search  a i{
+    color: white;
+  }
+  .navbar-nav .nav-item .nav-link{
+    color: white !important;
+    letter-spacing: 1px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover{
+    
+    opacity: 1;
+    background: #ffc554;
+      
+      -webkit-transform: rotate(-10deg) !important;
+      -ms-transform: rotate(-10deg) !important;
+      transform: rotate(-20deg) !important;
+      
+      -webkit-transition: all 0.3s !important;
+      -o-transition: all 0.3s !important;
+      transition: all 0.3s !important;
+  
+  }
+  /*------------ section one ---------------*/
+  .title-chef{
+    font-weight: 700;
+    font-size: 50px;
+  }
+  .list-chef img{
+    border-radius: 50%;
+  }
+  .first-para{
+    opacity: 1;
+    color: #5e6e82;
+    line-height: 38px;
+      letter-spacing: 1px;
+  }
+  .list-chef h6{
+      margin-top: 8px;
+    color: #5e6e82;
+    font-size: 18px;
+      font-weight: 600;
+  }
+  
+footer h2{
+  color: white;
+  font-weight: 500;
+}
+footer {
+ background-color: #0b1727!important;
+}
+footer ul li{
+  list-style-type: none;
+}
+footer ul li a {
+  text-decoration: none;
+  
+color: #999694 ;
+
+}
+.pied-page{
+  background-color: black;
+}
+.pied-page p{
+  color: white;
+}
+.pied-page a{
+  color: white !important;
+}
