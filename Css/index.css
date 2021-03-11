@@ -60,16 +60,44 @@ body{
 .number{
   color: #ffc554;
 }
+.imagefont{
+  width: 100%;
+  height: auto;
+}
+.mtt-2{
+  margin-top: 6rem !important;
+}
 
 @media screen and (max-width: 400px) {
-  .iimg img{
-    width:200px;
+   .imagefont{
+    width:75%;  
+  }
+
+
+  .mtt-2{
+    margin-top: 1rem !important;
+  }
+  .first-para{
+    font-size: 18px;
   }
   .history .image-onee{
     display: none;
   }
+  .fun-fact{
+    margin-bottom: 10px;
+  }
+  .my-para{
+    text-align: center;
+  }
   
-  
+}
+.question{
+  width: 56%;
+  height: 18%;
+}
+.image-footer{
+  width: 70%;
+  height: 70%;
 }
 /*------------Section-Tow  ------------*/
 /*------------About Section --------- */
